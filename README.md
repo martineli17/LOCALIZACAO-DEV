@@ -1,4 +1,6 @@
 # Aplicação de geolocalização de desenvolvedores
+## Observações
+Aplicação feita para fins de estudos.
 ## Requisitos
 Ter instalado na máquina o NodeJS.
 ## npm install
